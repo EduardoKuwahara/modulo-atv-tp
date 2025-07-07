@@ -1,0 +1,16 @@
+{
+  "name": "modulo-atv",
+  "version": "1.0.0",
+  "description": "Um módulo para realizar as 4 operações matemáticas básicas.",
+  "main": "calculos.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
